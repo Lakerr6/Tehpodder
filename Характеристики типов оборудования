@@ -1,0 +1,7 @@
+эхо "# Характеристики типов оборудования" >> README.md
+ инициализация git
+ git добавить README.md
+ git commit -m "первая фиксация"
+ветка git -M main
+ git удаленное добавление источника https://github.com/Lakerr6/Tehpodder.git
+ git push -u origin основной
